@@ -90,6 +90,7 @@ set(EXAMPLES
 	pushconstants
 	raytracing
 	radialblur
+	scenebindeverything
 	scenerendering
 	shadowmapping
 	shadowmappingomni
